@@ -5,7 +5,7 @@
 ### 현업에서 사용하고 있는 도구들
 ## Backend
 - Spring Boot
-- Spring Data Jpa
+- Spring Data JPA
 - QueryDsl
 - thymeleaf
 
