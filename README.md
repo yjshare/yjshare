@@ -10,10 +10,10 @@
 
 
 ### 나와 회사가 현재 관심 있어 하는 도구들
-- Aws
 - Spring Security
 - Spring Batch
 - Docker
+- Aws
 
 ## 2022년 목표
 - Spring Securtiy 인가부분를 통한 안정적인 서비스 구축
