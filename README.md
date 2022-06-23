@@ -2,9 +2,9 @@
 <details>
 <summary><h2> My Backend</h2></summary>
 <p></p>
-<p>Spring Boot </p>
+<p><h3>Spring</h3></p>
 <p>Spring Data JPA </p>
-<p>QueryDsl </p>
+<p> Spring Security </p>
 <p> thymeleaf </p>
 <p>Docker, Jenkins </p>
 </details>
@@ -14,15 +14,13 @@
     <p></p>
   <p> Spring Security </p>
   <p> Spring Batch </p>
-  <p> Docker&Jenkins </p>
+  <span> <p> Docker&Jenkins </p> </span>
   <p> Aws </p>
 </details>
 
 <details>
 <summary> <h2> 2022년 목표 </h2></summary>
   <p></p>
-<p>Spring Securtiy 인가부분를 통한 안정적인 서비스 구축 </p>
-<p> Spring Batch를 사용한 현업 데이터베이스 대용량 처리 프로세스 구현 </p>
 <p> 방송통신대 컴퓨터과학과 편입! </p>
 <p> 안정적인 서비스 구축 및 배포!</p>
 
