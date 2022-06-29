@@ -5,6 +5,7 @@
 <p><h3>Spring</h3></p>
 <p>Spring Data JPA </p>
 <p> Spring Security </p>
+<p> Spring Batch </p>
 <p> thymeleaf </p>
 <p>Docker, Jenkins </p>
 </details>
@@ -33,6 +34,6 @@
 <p> <2022. 5> 회사 적응 및 스프링 강의 복습</p> 
 <p> <2022. 6> 스프링 및 <컴퓨터 네트워킹 : 하향식 접근 7판> 정독</p> 
 <p> <2022. 6> 리눅스 기초 개념 및 용어 정리  </p>
-<p> <2022. 7> DB & JPA </p>
+<p> <2022. 7> Aws 공부 및 테스트 서버 배포</p>
  
 </details>
