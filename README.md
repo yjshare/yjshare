@@ -4,9 +4,9 @@
 <p></p>
 <p><h3>Spring</h3></p>
 <p>Spring Data JPA </p>
-<p> Spring Security </p>
+<del><p> Spring Security </p> </del>
 <p> Spring Batch </p>
-<p> thymeleaf </p>
+<del><p> thymeleaf </p></del>
 <p>Docker, Jenkins </p>
 </details>
 
