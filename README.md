@@ -17,6 +17,7 @@
   <p> Spring Batch </p>
   <span> <p> Docker&Jenkins </p> </span>
   <p> Aws </p>
+<p>  prometheus & grafana</p>
 </details>
 
 <details>
@@ -36,4 +37,5 @@
 <p> <2022. 6> 리눅스 기초 개념 및 용어 정리  </p>
 <p> <2022. 7> SpringSecurity 공부</p>
 <p> <2022. 7> Aws 공부 및 테스트 서버 배포</p>
+<p> <2022. 8> Aws 공부 및 Design Pattern</p>
 </details>
